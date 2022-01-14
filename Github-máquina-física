@@ -1,0 +1,8 @@
+passo a passo para carregar arquivos do github para máquina física
+no git bash (aberto na apsta do arquivo) 
+git push <link do github>
+ls para verificar se estão todos os arquivos 
+git status para verificar o status dos arquivos
+git add . para adicionar os arquivos
+git commit -m "definir o que foi feito"
+git pull origin main para enviar para enviar para o github
